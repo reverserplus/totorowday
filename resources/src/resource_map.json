@@ -1,0 +1,27 @@
+{
+    "media": [
+        {
+            "characterRegex": "[:0-9]",
+            "defName": "FONT_GOTHIC_REGULAR_36",
+            "type": "font",
+            "file": "fonts/gothic.ttf"
+        },
+        {
+            "defName": "FONT_GOTHIC_REGULAR_12",
+            "type": "font",
+            "file": "fonts/gothic.ttf"
+        },
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/menu_icon_totoro.png"
+        },
+        {
+            "defName": "IMAGE_BACKGROUND",
+            "type": "png",
+            "file": "images/totoro-bw.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
